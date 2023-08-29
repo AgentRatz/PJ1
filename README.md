@@ -1,11 +1,11 @@
 # PJ1
 PJ1 - Data Analysis on Internships in India (AUG 2023)
 
-Project Overview:
-Project PJ1, abbreviated as "Project 1," is an initiative aimed at conducting comprehensive data analysis on internship opportunities available in India as of August 2023. The project involves the process of data scraping and mining from the popular internship listing website, Internshala (internshala.com/internships). The collected data will be organized into specific columns for further analysis and insights.
+**Project Overview:
+**Project PJ1, abbreviated as "Project 1," is an initiative aimed at conducting comprehensive data analysis on internship opportunities available in India as of August 2023. The project involves the process of data scraping and mining from the popular internship listing website, Internshala (internshala.com/internships). The collected data will be organized into specific columns for further analysis and insights.
 
-Project Objectives:
-The primary objectives of PJ1 are as follows:
+**Project Objectives:
+**The primary objectives of PJ1 are as follows:
 
 Data Collection: Extract internship-related information from Internshala's internship listings, including company names, internship titles, locations, and stipends.
 Data Structuring: Organize the collected data into structured columns to enable efficient analysis and visualization.
@@ -24,12 +24,12 @@ Exploratory Data Analysis (EDA): Conduct exploratory data analysis to uncover pa
 
 Data Visualization: Create various visual representations, such as bar charts, scatter plots, and histograms, to visually present the findings and insights derived from the data.
 
-Project Documentation: Document the entire process, including the code used for scraping, data cleaning, and analysis, along with explanations. This documentation will serve as a reference for others and aid in replicating the project.
+**Project Documentation: **Document the entire process, including the code used for scraping, data cleaning, and analysis, along with explanations. This documentation will serve as a reference for others and aid in replicating the project.
 
-Benefits and Impact:
+**Benefits and Impact:**
 PJ1 aims to provide valuable insights into the current landscape of internship opportunities in India. It will enable students, job seekers, and employers to gain a better understanding of the distribution of internships across different locations, stipend ranges, and industries. The project's results can be used to make informed decisions about pursuing internships and to tailor internship offerings to better match student preferences.
 
-GitHub Repository:
+**GitHub Repository:**
 The code, documentation, and findings of PJ1 will be hosted in a GitHub repository. The repository will include:
 
 Data scraping code to collect internship information from Internshala.
